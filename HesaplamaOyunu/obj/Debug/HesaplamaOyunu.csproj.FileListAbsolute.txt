@@ -1,0 +1,10 @@
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\bin\Debug\HesaplamaOyunu.exe.config
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\bin\Debug\HesaplamaOyunu.exe
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\bin\Debug\HesaplamaOyunu.pdb
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.csprojAssemblyReference.cache
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.Form1.resources
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.Properties.Resources.resources
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.csproj.GenerateResource.cache
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.exe
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.pdb
+C:\Users\Jiyan\source\repos\HesaplamaOyunu\HesaplamaOyunu\obj\Debug\HesaplamaOyunu.csproj.CoreCompileInputs.cache
